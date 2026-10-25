@@ -1,0 +1,2 @@
+Ejemplo de lectura de archivos en Java.
+Segunda línea para comprobar la lectura completa.

@@ -1,0 +1,19 @@
+package EjercicioTres;
+
+public class EmpleadoTemporal extends Empleado{
+
+    private double pagoPorHora;
+    private int horasTrabajadas;
+
+    public EmpleadoTemporal(double pagoPorHora, int horasTrabajadas){
+        
+        this.pagoPorHora = pagoPorHora;
+        this.horasTrabajadas = horasTrabajadas;
+    }
+    
+    @Override
+    public double calcularSueldo() {
+        return pagoPorHora * horasTrabajadas;
+    }
+    
+}

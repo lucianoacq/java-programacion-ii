@@ -1,0 +1,13 @@
+src/ejercicio1/CategoriaProducto.java
+src/ejercicio1/Inventario.java
+src/ejercicio1/Main.java
+src/ejercicio1/Producto.java
+src/ejercicio2/Autor.java
+src/ejercicio2/Biblioteca.java
+src/ejercicio2/Libro.java
+src/ejercicio2/Main.java
+src/ejercicio3/Curso.java
+src/ejercicio3/Main.java
+src/ejercicio3/Profesor.java
+src/ejercicio3/Universidad.java
+src/tp6/colecciones/TP6Colecciones.java
